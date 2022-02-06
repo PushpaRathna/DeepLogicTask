@@ -1,0 +1,12 @@
+{
+  "name": "latest_stories_task",
+  "version": "1.0.0",
+  "description": "This package is used to get the latest stories from news website \"time.com\"",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js",
+    "start": "node main.js"
+  },
+  "author": "Pushpa rathna",
+  "license": "ISC"
+}
